@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "hammad ali",
+      "id": 17,
+      "userDetail": []
+    },
+    {
+      "name": "asghar ali",
+      "userDetail": [],
+      "id": 20
+    },
+    {
+      "name": "talha umer",
+      "userDetail": [],
+      "id": 21
+    },
+    {
+      "name": "umer farooq",
+      "id": 24
+    },
+    {
+      "name": "Zain",
+      "userDetail": [],
+      "id": 25
+    },
+    {
+      "name": "webadmin",
+      "userDetail": [],
+      "id": 26
+    }
+  ]
+}

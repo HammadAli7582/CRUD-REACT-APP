@@ -1,0 +1,12 @@
+.my-style {
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+.my-style:hover {
+  color: blue;
+}
+
+.linkColor:hover {
+  text-decoration: underline;
+  color: blue;
+}
